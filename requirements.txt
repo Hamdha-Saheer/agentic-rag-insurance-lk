@@ -1,0 +1,23 @@
+ #Core AI / RAG
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-groq==0.1.9
+faiss-cpu==1.8.0
+sentence-transformers==3.0.1
+
+# Search and web
+tavily-python==0.3.3
+
+# Evaluation
+ragas==0.1.14
+datasets==2.21.0
+
+# Data processing
+pandas==2.2.2
+PyPDF2==3.0.1
+beautifulsoup4==4.12.3
+requests==2.32.3
+urllib3==2.2.2
+
+# Frontend
+streamlit==1.38.0
