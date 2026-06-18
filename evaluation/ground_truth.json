@@ -1,0 +1,212 @@
+[
+  {
+    "question": "What specific events or scenarios are excluded from the NITF motor insurance policy?",
+    "ground_truth": "The NITF motor insurance policy excludes: damage to tyres, tubes, rubber items, electric, electronic and suspension parts unless other damage occurs simultaneously (liability capped at 50% replacement cost); loss of accessories by burglary or theft unless the entire vehicle is stolen (except private cars); airbag damage unless the vehicle sustains other damage at the same time; consequential loss or mechanical breakdown; and damage caused while the vehicle is driven by a person without a valid licence.",
+    "category": "Motor",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "Does the Agrahara insurance scheme have a cooling-off period during which a member can cancel for a full refund?",
+    "ground_truth": "The Agrahara scheme is a government health scheme administered by NITF and not a standard commercial policy, so a traditional cooling-off period does not apply. Membership is tied to government service and premiums are deducted from salary. The IRCSL Guidelines on Policy Framework for Long-Term Insurance Products require a cooling-off period only for commercial long-term insurance products, not government schemes.",
+    "category": "Health_Agrahara",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "If a government employee already has Agrahara coverage, will a private health policy duplicate benefits or complement it?",
+    "ground_truth": "A private health policy would complement the Agrahara scheme rather than duplicate it. Agrahara covers government hospital and private hospital treatment up to defined annual limits (LKR 150,000 per year for Normal scheme, LKR 250,000 for Silver, LKR 350,000 for Gold). A private policy can cover costs exceeding these limits, dental, optical, outpatient treatments, and other benefits not included in Agrahara.",
+    "category": "Health_Agrahara",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "Who is eligible to be listed as a beneficiary under the Agrahara insurance scheme?",
+    "ground_truth": "Under the Agrahara scheme, married members can claim for the member, spouse, and unemployed unmarried dependent children under 21 years of age, totally disabled children over 21 years, and the member's parents below 70 years of age. Unmarried members can claim for themselves and their parents below 70 years. Coverage extends to nearly 1 million government servants and over 3 million dependants.",
+    "category": "Health_Agrahara",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "Does the NITF motor insurance policy include a waiver of premium if the insured becomes disabled?",
+    "ground_truth": "The NITF Motor Vehicle Insurance Policy does not include a waiver of premium rider for disability. The policy is an annual contract renewed with premium payment each year. Waiver of premium is a feature associated with long-term life insurance products regulated by IRCSL. For motor insurance, the policy lapses if the premium is not paid at renewal.",
+    "category": "Motor",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "Is the Agrahara health scheme cashless at network hospitals or does the member pay upfront and claim reimbursement?",
+    "ground_truth": "The Agrahara scheme operates primarily as a reimbursement scheme where members submit claim forms with supporting documents to NITF after treatment. For major surgeries such as heart surgery, kidney transplant, and brain surgery, a guarantee application form can be submitted in advance so NITF guarantees payment directly to the hospital. The list of registered hospitals authorised to receive direct Agrahara payments is published on the NITF website.",
+    "category": "Health_Agrahara",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What is the annual limit for private hospital treatment under the Agrahara Gold scheme?",
+    "ground_truth": "Under the Agrahara Government Gold Scheme, the annual limit for Private Hospital Surgical and Medical Treatment is LKR 350,000 per year with a maximum of LKR 80,000 per case. Private Hospital Room Charges are covered at LKR 8,000 per day for up to 10 days with a maximum of LKR 80,000 per case. Private Hospital Consultation Fees are covered up to LKR 50,000 per case.",
+    "category": "Health_Agrahara",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What is the annual limit for private hospital treatment under the Agrahara Silver scheme?",
+    "ground_truth": "Under the Agrahara Government Silver Scheme, the annual limit for Private Hospital Surgical and Medical Treatment is LKR 250,000 per year with a maximum of LKR 60,000 per case. Private Hospital Room Charges are covered at LKR 5,000 per day for up to 10 days with a maximum of LKR 50,000 per case. Private Hospital Consultation Fees are covered up to LKR 35,000 per case.",
+    "category": "Health_Agrahara",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What is the annual limit for private hospital treatment under the Agrahara Normal scheme?",
+    "ground_truth": "Under the Agrahara Government Normal Scheme, the annual limit for Private Hospital Surgical and Medical Treatment is LKR 150,000 per year with a maximum of LKR 50,000 per case. Private Hospital Room Charges are covered at LKR 3,000 per day for up to 10 days with a maximum of LKR 30,000 per case. Private Hospital Consultation Fees are covered up to LKR 20,000 per case.",
+    "category": "Health_Agrahara",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What is the Agrahara Pension scheme coverage for private hospital room charges?",
+    "ground_truth": "Under the Agrahara Pension Scheme for retired government employees, Private Hospital Room Charges are covered at LKR 3,000 per day for up to 10 days with a maximum of LKR 30,000 per case. The annual limit for Private Hospital Surgical and Medical Treatment is LKR 50,000 per year. This scheme is specifically for pensioners and retired government servants registered with NITF.",
+    "category": "Health_Agrahara",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "Does the Agrahara scheme cover specialized surgery such as heart surgery or kidney transplant?",
+    "ground_truth": "Yes. The Agrahara scheme covers specialized surgeries including heart surgery, kidney transplant surgery, and brain surgery. For these major procedures, members submit a Guarantee Application Form in advance rather than a standard claim form. The scheme covers bypass operations, various operations, and other major surgical procedures. The President's Fund also provides additional grants for major surgeries such as CABG up to LKR 300,000.",
+    "category": "Health_Agrahara",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What is the process for a government employee to add a spouse to the Agrahara health insurance scheme?",
+    "ground_truth": "Married Agrahara members automatically cover their spouse under the scheme as a dependent beneficiary. The spouse is included along with unmarried dependent children under 21 years and parents below 70 years of age. Members do not need to separately register their spouse. Claim forms include sections for dependent claims and require documentation such as marriage certificate confirming the relationship.",
+    "category": "Health_Agrahara",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "Does the NITF motor insurance policy include third-party liability cover?",
+    "ground_truth": "Yes. The NITF Motor Vehicle Insurance Policy includes Third-Party Liability cover. Under the Motor Traffic Act, all motor vehicles used on public highways in Sri Lanka must have at minimum a third-party insurance policy. This covers legal liability for death or bodily injury caused to third parties. The Optional Compensation Scheme published by IRCSL on 26 February 2024 provides an additional out-of-court compensation mechanism for third-party victims of motor accidents.",
+    "category": "Motor",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What is the Optional Compensation Scheme for motor accident victims in Sri Lanka?",
+    "ground_truth": "The IRCSL Optional Compensation Scheme (OCS) is an out-of-court compensation mechanism for third-party victims of motor vehicle accidents for death or permanent disability. It is paid by registered general insurance institutions on an ex-gratia basis without admitting legal liability. Any violation of the insurance policy does not prevent a third party from claiming under OCS. Documents including a police report must be submitted within 6 months from the date of the accident.",
+    "category": "Motor",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "Which documents are mandatory to submit for an Agrahara accident claim?",
+    "ground_truth": "For an Agrahara accident claim, mandatory documents include: the completed Agrahara Accident Claim Application Form, medical certificates from the treating doctor, salary details for three months prior to the accident certified by the Accountant, and an Accountant's certificate confirming that insurance premiums have been paid continuously for three months before the accident. The claim application must be received by NITF within 90 days of reporting back to work after the accident.",
+    "category": "Health_Agrahara",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "How can a policyholder contact IRCSL to resolve an insurance dispute?",
+    "ground_truth": "Policyholders can contact the Insurance Regulatory Commission of Sri Lanka at: Level 11, East Tower, World Trade Centre, Colombo 01. Telephone: 011 2396184 to 9 for general inquiries and 011 2335167 for complaints. Fax: 011 2396190. Website: ircsl.gov.lk. IRCSL Direction 4 of 2025 also requires all insurance companies to state the Dispute Resolution Procedure in their Insurance Product Information Document, including the Insurance Ombudsman and IRCSL complaint channels.",
+    "category": "Regulatory",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What is the Suraksha student insurance scheme and who is eligible?",
+    "ground_truth": "The Suraksha Student Insurance Scheme is a free government insurance scheme provided by the Ministry of Education covering 4.5 million Sri Lankan school children aged 5 to 19. It covers students in government schools, government approved private schools, special education schools, international schools, and Pirivenas. The scheme has been in operation from 1st October 2017 and provides health benefits, accident covers, and special bonus allowances at no cost to students.",
+    "category": "General",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What are the hospitalization benefits under the Suraksha student insurance scheme?",
+    "ground_truth": "Under the Suraksha Student Insurance Scheme, the annual insurance cover for hospitalization is LKR 200,000 per individual. For private hospitals and paying wards of government hospitals, room charges are covered up to LKR 5,000 per day with an annual limit of LKR 60,000 and a maximum of LKR 30,000 per admission. Surgeon and specialist fees are covered up to LKR 30,000 per occasion with an annual limit of LKR 60,000. Other hospital services have an annual limit of LKR 80,000.",
+    "category": "General",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What does IRCSL Direction 4 of 2025 require from insurance companies?",
+    "ground_truth": "IRCSL Direction No. 4 of 2025 dated 28 October 2025 requires all insurance companies and insurance intermediaries to issue an Insurance Product Information Document (IPID) containing key features of the policy in simple language. The direction promotes transparency and policyholder awareness. It is issued under Section 3 and Section 37(2) of the Regulation of Insurance Industry Act No. 43 of 2000 and applies to both life and general insurance products including renewals.",
+    "category": "Regulatory",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What is the minimum age requirement for driving a light vehicle in Sri Lanka?",
+    "ground_truth": "Under the Motor Traffic Amendment Act No. 10 of 2019, which amends Section 123 of the Motor Traffic Act Chapter 203, no person shall drive a light vehicle on a road unless they have completed 18 years of age. No person shall drive a heavy vehicle on a road unless they have completed 21 years of age. Violation carries a fine of not less than LKR 25,000 and not exceeding LKR 30,000 for the first offence.",
+    "category": "Motor",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What is the NITF Agrahara scheme and when was it introduced?",
+    "ground_truth": "The Agrahara Insurance Scheme was introduced by the Ministry of Public Administration Circular No. 5 of 1997 and came under the National Insurance Trust Fund from 1st January 2006. The scheme covers nearly 1 million government servants and over 3 million of their dependants. NITF pays for all medical claims including hospitalizations, childbirth, various operations, bypass operations, spectacles, accidents, and death claims submitted by government servants and their eligible dependants.",
+    "category": "Health_Agrahara",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "Does the Agrahara scheme cover treatment received at hospitals in India or other foreign countries?",
+    "ground_truth": "The current Agrahara scheme documentation does not mention any coverage for treatment received at foreign hospitals in India or any other country. The scheme covers treatment at registered hospitals within Sri Lanka only, including government hospitals and approved private hospitals on the NITF registered hospital list. Foreign hospital coverage is not available under the Agrahara scheme based on available official documents.",
+    "category": "Negative_Test",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What is the exact premium rate for a 45-year-old government employee under the Agrahara Gold scheme?",
+    "ground_truth": "The current Agrahara scheme documentation does not specify individual premium rates based on age. The Agrahara scheme is a group insurance scheme where premiums are deducted from salary as a fixed contribution. Age-based individual premium tables are not published in the available NITF official documents. This information would need to be verified directly with NITF or the relevant government ministry.",
+    "category": "Negative_Test",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "Does the Agrahara insurance scheme cover dental implants or cosmetic surgery procedures?",
+    "ground_truth": "The current Agrahara scheme documentation does not mention coverage for dental implants or cosmetic surgery. The scheme covers hospitalizations, childbirth, various operations including bypass operations, spectacles, accidents, and death claims. Cosmetic procedures and dental implants are not listed as covered benefits in the available NITF Agrahara documents. This should be verified directly with NITF at nitf.lk.",
+    "category": "Negative_Test",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What is the specific no-claim bonus percentage for NITF motor insurance after three consecutive claim-free years?",
+    "ground_truth": "The available NITF Motor Vehicle Insurance Policy document does not specify the exact no-claim bonus percentage applicable after three consecutive claim-free years. While the policy provides for a no-claim bonus as a discount on renewal premium, the specific percentage table is not included in the publicly available policy document. This information must be obtained directly from NITF Motor Department at their office at No. 95, Sir Chittampalam A Gardiner Mawatha, Colombo 02.",
+    "category": "Negative_Test",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "Can a private sector employee in Sri Lanka voluntarily join the Agrahara government health insurance scheme?",
+    "ground_truth": "The current Agrahara scheme documentation does not provide for voluntary membership by private sector employees. The scheme was introduced under Ministry of Public Administration Circular No. 5 of 1997 specifically for government servants and their dependants. The SEMI scheme covers semi-government institution employees. Private sector employees are not eligible for Agrahara and must seek coverage through private health insurance or NITF commercial products.",
+    "category": "Negative_Test",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What is the main objective of the Regulation of Insurance Industry Act No. 43 of 2000?",
+    "ground_truth": "The main objective of the Regulation of Insurance Industry Act No. 43 of 2000 is to ensure that insurance business in Sri Lanka is carried on with integrity and in a professional manner, to safeguard the interests of policyholders and potential policyholders, and to establish the Insurance Regulatory Commission of Sri Lanka (IRCSL).",
+    "category": "Regulatory",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What are the standard coverage components of a basic Suraksha health insurance plan?",
+    "ground_truth": "The basic Suraksha insurance plan covers school children against hospitalization up to LKR 200,000, personal accident benefits for the student, death benefits in case of a parent's demise (LKR 75,000), and critical illness grants.",
+    "category": "General",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What is the consequence if an insurance broker in Sri Lanka operates without registration from IRCSL?",
+    "ground_truth": "According to the Regulation of Insurance Industry Act No. 43 of 2000, operating as an insurance broker without proper registration is a legal offense. It can lead to severe financial fines, criminal prosecution, and immediate closure of business operations by regulatory enforcement.",
+    "category": "Regulatory",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "Does NITF provide natural disaster insurance for properties and assets across Sri Lanka?",
+    "ground_truth": "Yes, NITF administers the National Natural Disaster Insurance Scheme (NNDIS), which provides cover for unprotected properties, small and medium enterprises (SMEs), and lives against damages from natural catastrophes like floods, landslides, and storms across Sri Lanka.",
+    "category": "General",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "How long must an insurer keep records of claims under the Sri Lankan regulatory framework?",
+    "ground_truth": "Per IRCSL rules and statutory guidelines, insurance institutions must maintain exhaustive claim histories, documentation records, and policy parameters for a minimum of 7 to 10 years after the file is settled to enable legal compliance and audits.",
+    "category": "Regulatory",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What is covered under the personal accident benefit of the NITF Motor policy?",
+    "ground_truth": "The personal accident component within the NITF motor policy offers financial compensation to the driver and passengers in the event of accidental bodily injuries leading to permanent total disablement or fatal consequences while traveling in the insured vehicle.",
+    "category": "Motor",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "Does the Suraksha student scheme offer reimbursement for spectacles or vision aids?",
+    "ground_truth": "Yes, under the special health services criteria, the Suraksha student insurance scheme provides a capped financial allocation up to LKR 10,000 for purchasing spectacles and optical aids if prescribed by a certified specialist.",
+    "category": "General",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "What is the standard duration for an emergency premium grace period under IRCSL guidelines?",
+    "ground_truth": "Standard retail commercial long-term insurance policies usually grant a grace period of 30 days for payment of overdue premiums before the policy lapses or shifts to a paid-up status, depending on the terms.",
+    "category": "Regulatory",
+    "verified_date": "2026-04-26"
+  },
+  {
+    "question": "Are critical illnesses diagnosed before joining covered under the standard Agrahara scheme rules?",
+    "ground_truth": "Pre-existing chronic medical conditions are generally subject to declaring criteria or continuous subscription constraints. For continuous public servants, certain standard treatments are covered under specific sub-limits defined across the Gold and Silver schedules.",
+    "category": "Health_Agrahara",
+    "verified_date": "2026-04-26"
+  }
+]
